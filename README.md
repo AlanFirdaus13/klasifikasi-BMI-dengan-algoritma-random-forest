@@ -1,2 +1,2 @@
 # Klasifikasi-BMI
-program klasifikasi BMI dengan algoritma random forest classifier
+Kode Program machine learning klasifikasi body mass index (BMI) dengan Algoritma Random Forest Classifier
