@@ -28,8 +28,10 @@ repositori ini berisi project machine learning untuk klasifikasi status bmi berd
 # 9 validasi model dengan GridSearcCV
 ```
 ```
-# 10 test akurasi model dengan F1 Score 
+# 10 test akurasi model 
 ```
+�PNG
+
 ```
 # 11 Build model dengan joblib
 ```
