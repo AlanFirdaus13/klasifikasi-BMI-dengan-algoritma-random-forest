@@ -30,8 +30,6 @@ repositori ini berisi project machine learning untuk klasifikasi status bmi berd
 ```
 # 10 test akurasi model 
 ```
-�PNG
-
 ```
 # 11 Build model dengan joblib
 ```
